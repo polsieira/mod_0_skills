@@ -1,0 +1,24 @@
+Class: Teacher
+
+
+Attributes:
+
+dateStart (DateTime)
+
+numberOfStudents (int)
+
+hourlyWage (float)
+
+hoursWorked (float)
+
+
+Methods:
+
+totalTimeHired (take current date and subtract date started)
+
+getRaise (add raise to hourlyWage)
+
+newPayPeriod (zero out hoursWorked)
+
+totalEarned (hourlyWage * hoursWorked)
+
