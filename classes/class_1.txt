@@ -1,0 +1,24 @@
+Class: Class
+
+
+Attributes:
+
+numberOfStudents (int)
+
+totalModules (int)
+
+grades (array)
+
+currentModule (int)
+
+
+Methods:
+
+averageGrade (add up array of grades and divide by 
+numberOfStudents)
+
+modulesRemaining (totalModules - currentModule)
+
+dropStudent (numberOfStudents - 1)
+
+changeGrade (take grades[i] and change to correct grade)
