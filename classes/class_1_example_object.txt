@@ -1,0 +1,24 @@
+Class: Current Turing Class
+
+
+Attributes:
+
+numberOfStudents: 4
+
+totalModules: 5
+
+grades: [.80, .95, .93, .75]
+
+currentModule: 1
+
+
+Methods:
+
+averageGrade (add up array of grades and divide by 
+numberOfStudents): (.8 + .95 + .93 + .75) / 4 = 0.8575
+
+modulesRemaining (totalModules - currentModule): 5 - 1 = 4
+
+dropStudent (numberOfStudents - 1): 4 - 1 = 3
+
+changeGrade (take grades[i] and change to correct grade): grades[1] = .98 ------> [.80, .98, .93, .75]
