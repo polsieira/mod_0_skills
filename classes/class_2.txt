@@ -3,7 +3,7 @@ Class: Teacher
 
 Attributes:
 
-dateStart (DateTime)
+yearStart (int)
 
 numberOfStudents (int)
 
@@ -14,7 +14,7 @@ hoursWorked (float)
 
 Methods:
 
-totalTimeHired (take current date and subtract dateStart)
+yearsWorked (take current date and subtract yearStart)
 
 getRaise (add raise to hourlyWage)
 
