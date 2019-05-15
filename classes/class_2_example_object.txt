@@ -1,0 +1,23 @@
+Class: Mr. Rodgers
+
+
+Attributes:
+
+yearStart: 2010
+
+numberOfStudents: 30
+
+hourlyWage: 30.50
+
+hoursWorked: 80.25
+
+
+Methods:
+
+yearsWorked (take current date and subtract yearStart): 2019 - 2010 = 9
+
+getRaise (add raise to hourlyWage): 30.50 + (30.50 * 10%) = 33.55
+
+newPayPeriod (zero out hoursWorked): hoursWorked = 0
+
+totalEarned (hourlyWage * hoursWorked): 30.50 * 80.25 = 2447.625
