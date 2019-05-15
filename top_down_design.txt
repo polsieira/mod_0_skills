@@ -1,4 +1,4 @@
-# Becoming a Turing Student
+Becoming a Turing Student
 
 1. Research local coding schools
     1.1 Make a list of possible schools
