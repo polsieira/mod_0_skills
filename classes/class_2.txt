@@ -14,7 +14,7 @@ hoursWorked (float)
 
 Methods:
 
-totalTimeHired (take current date and subtract date started)
+totalTimeHired (take current date and subtract dateStart)
 
 getRaise (add raise to hourlyWage)
 
